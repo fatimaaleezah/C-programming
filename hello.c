@@ -5,5 +5,6 @@ int main (void)
     printf("this is my first program saved using git");
     printf("hello new feature\n");
     printf("blah\n");
+    printf("bye\n");
     return 0;
 }
