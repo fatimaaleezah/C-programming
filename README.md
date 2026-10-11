@@ -1,3 +1,3 @@
 # C-programming
 My C programming practice and beginner projects
-hello
+Author - Fatima aleezah
